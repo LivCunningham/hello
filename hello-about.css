@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  min-height: 100%;
+  font-family: 'Rajdhani', sans-serif;
+  text-align: center;
+  font-size: 1rem;
+  margin-top: 2rem;
+  background-image: url(https://media.giphy.com/media/D2lyVL5uoB9qU/giphy.gif);
+}
+
+#myheader {
+  background-color: lightblue;
+  color: black;
+  padding: 40px;
+  text-align: center;
+}
+
+#mouthy {
+  float: right;
+}
+
+#iframe {
+  min-width: 80%;
+  margin-bottom: 0;
+}
+
+h2 {
+  font-family: 'Righteous', cursive;
+  color: white;
+  margin-top: 0rem;
+  font-size: 20rem;
+}
